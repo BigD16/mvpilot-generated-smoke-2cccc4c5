@@ -1,0 +1,1 @@
+print('MVPilot smoke test')
